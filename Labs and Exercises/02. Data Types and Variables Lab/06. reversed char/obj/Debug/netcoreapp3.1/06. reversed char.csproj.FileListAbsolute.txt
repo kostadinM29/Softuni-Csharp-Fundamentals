@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Fund data var lab\06. reversed char\bin\Debug\netcoreapp3.1\06. reversed char.exe
+C:\Users\User\source\repos\Fund data var lab\06. reversed char\bin\Debug\netcoreapp3.1\06. reversed char.deps.json
+C:\Users\User\source\repos\Fund data var lab\06. reversed char\bin\Debug\netcoreapp3.1\06. reversed char.runtimeconfig.json
+C:\Users\User\source\repos\Fund data var lab\06. reversed char\bin\Debug\netcoreapp3.1\06. reversed char.runtimeconfig.dev.json
+C:\Users\User\source\repos\Fund data var lab\06. reversed char\bin\Debug\netcoreapp3.1\06. reversed char.dll
+C:\Users\User\source\repos\Fund data var lab\06. reversed char\bin\Debug\netcoreapp3.1\06. reversed char.pdb
+C:\Users\User\source\repos\Fund data var lab\06. reversed char\obj\Debug\netcoreapp3.1\06. reversed char.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Fund data var lab\06. reversed char\obj\Debug\netcoreapp3.1\06. reversed char.AssemblyInfo.cs
+C:\Users\User\source\repos\Fund data var lab\06. reversed char\obj\Debug\netcoreapp3.1\06. reversed char.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fund data var lab\06. reversed char\obj\Debug\netcoreapp3.1\06. reversed char.dll
+C:\Users\User\source\repos\Fund data var lab\06. reversed char\obj\Debug\netcoreapp3.1\06. reversed char.pdb
+C:\Users\User\source\repos\Fund data var lab\06. reversed char\obj\Debug\netcoreapp3.1\06. reversed char.genruntimeconfig.cache

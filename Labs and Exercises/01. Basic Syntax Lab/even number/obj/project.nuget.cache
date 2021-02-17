@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zrqr+3hwX2I+ddTk7dqtrKrICNucF77ULokIfGFmyUjEE8HmZq4Rj0n1Cg/TXwSc+E2y3YyHVrpNsZvYe5VZdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Fund Basic Syntax Lab\\even number\\even number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

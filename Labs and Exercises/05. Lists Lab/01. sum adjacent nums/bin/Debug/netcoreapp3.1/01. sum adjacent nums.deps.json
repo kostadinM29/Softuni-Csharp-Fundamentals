@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "01. sum adjacent nums/1.0.0": {
+        "runtime": {
+          "01. sum adjacent nums.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01. sum adjacent nums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

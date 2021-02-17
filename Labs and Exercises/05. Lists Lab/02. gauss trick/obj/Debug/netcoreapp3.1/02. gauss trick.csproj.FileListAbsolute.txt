@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\fund lists lab\02. gauss trick\bin\Debug\netcoreapp3.1\02. gauss trick.exe
+C:\Users\User\source\repos\fund lists lab\02. gauss trick\bin\Debug\netcoreapp3.1\02. gauss trick.deps.json
+C:\Users\User\source\repos\fund lists lab\02. gauss trick\bin\Debug\netcoreapp3.1\02. gauss trick.runtimeconfig.json
+C:\Users\User\source\repos\fund lists lab\02. gauss trick\bin\Debug\netcoreapp3.1\02. gauss trick.runtimeconfig.dev.json
+C:\Users\User\source\repos\fund lists lab\02. gauss trick\bin\Debug\netcoreapp3.1\02. gauss trick.dll
+C:\Users\User\source\repos\fund lists lab\02. gauss trick\bin\Debug\netcoreapp3.1\02. gauss trick.pdb
+C:\Users\User\source\repos\fund lists lab\02. gauss trick\obj\Debug\netcoreapp3.1\02. gauss trick.csprojAssemblyReference.cache
+C:\Users\User\source\repos\fund lists lab\02. gauss trick\obj\Debug\netcoreapp3.1\02. gauss trick.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\fund lists lab\02. gauss trick\obj\Debug\netcoreapp3.1\02. gauss trick.AssemblyInfo.cs
+C:\Users\User\source\repos\fund lists lab\02. gauss trick\obj\Debug\netcoreapp3.1\02. gauss trick.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\fund lists lab\02. gauss trick\obj\Debug\netcoreapp3.1\02. gauss trick.dll
+C:\Users\User\source\repos\fund lists lab\02. gauss trick\obj\Debug\netcoreapp3.1\02. gauss trick.pdb
+C:\Users\User\source\repos\fund lists lab\02. gauss trick\obj\Debug\netcoreapp3.1\02. gauss trick.genruntimeconfig.cache

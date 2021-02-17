@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\fund ass arrays exe\08. company users\bin\Debug\netcoreapp3.1\08. company users.exe
+C:\Users\User\source\repos\fund ass arrays exe\08. company users\bin\Debug\netcoreapp3.1\08. company users.deps.json
+C:\Users\User\source\repos\fund ass arrays exe\08. company users\bin\Debug\netcoreapp3.1\08. company users.runtimeconfig.json
+C:\Users\User\source\repos\fund ass arrays exe\08. company users\bin\Debug\netcoreapp3.1\08. company users.runtimeconfig.dev.json
+C:\Users\User\source\repos\fund ass arrays exe\08. company users\bin\Debug\netcoreapp3.1\08. company users.dll
+C:\Users\User\source\repos\fund ass arrays exe\08. company users\bin\Debug\netcoreapp3.1\08. company users.pdb
+C:\Users\User\source\repos\fund ass arrays exe\08. company users\obj\Debug\netcoreapp3.1\08. company users.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\fund ass arrays exe\08. company users\obj\Debug\netcoreapp3.1\08. company users.AssemblyInfo.cs
+C:\Users\User\source\repos\fund ass arrays exe\08. company users\obj\Debug\netcoreapp3.1\08. company users.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\fund ass arrays exe\08. company users\obj\Debug\netcoreapp3.1\08. company users.dll
+C:\Users\User\source\repos\fund ass arrays exe\08. company users\obj\Debug\netcoreapp3.1\08. company users.pdb
+C:\Users\User\source\repos\fund ass arrays exe\08. company users\obj\Debug\netcoreapp3.1\08. company users.genruntimeconfig.cache
+C:\Users\User\source\repos\fund ass arrays exe\08. company users\obj\Debug\netcoreapp3.1\08. company users.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\fund methods exe\05. add and subtract\bin\Debug\netcoreapp3.1\05. add and subtract.exe
+C:\Users\User\source\repos\fund methods exe\05. add and subtract\bin\Debug\netcoreapp3.1\05. add and subtract.deps.json
+C:\Users\User\source\repos\fund methods exe\05. add and subtract\bin\Debug\netcoreapp3.1\05. add and subtract.runtimeconfig.json
+C:\Users\User\source\repos\fund methods exe\05. add and subtract\bin\Debug\netcoreapp3.1\05. add and subtract.runtimeconfig.dev.json
+C:\Users\User\source\repos\fund methods exe\05. add and subtract\bin\Debug\netcoreapp3.1\05. add and subtract.dll
+C:\Users\User\source\repos\fund methods exe\05. add and subtract\bin\Debug\netcoreapp3.1\05. add and subtract.pdb
+C:\Users\User\source\repos\fund methods exe\05. add and subtract\obj\Debug\netcoreapp3.1\05. add and subtract.csprojAssemblyReference.cache
+C:\Users\User\source\repos\fund methods exe\05. add and subtract\obj\Debug\netcoreapp3.1\05. add and subtract.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\fund methods exe\05. add and subtract\obj\Debug\netcoreapp3.1\05. add and subtract.AssemblyInfo.cs
+C:\Users\User\source\repos\fund methods exe\05. add and subtract\obj\Debug\netcoreapp3.1\05. add and subtract.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\fund methods exe\05. add and subtract\obj\Debug\netcoreapp3.1\05. add and subtract.dll
+C:\Users\User\source\repos\fund methods exe\05. add and subtract\obj\Debug\netcoreapp3.1\05. add and subtract.pdb
+C:\Users\User\source\repos\fund methods exe\05. add and subtract\obj\Debug\netcoreapp3.1\05. add and subtract.genruntimeconfig.cache

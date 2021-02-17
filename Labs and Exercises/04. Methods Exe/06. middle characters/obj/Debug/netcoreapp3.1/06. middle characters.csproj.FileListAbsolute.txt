@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\fund methods exe\06. middle characters\bin\Debug\netcoreapp3.1\06. middle characters.exe
+C:\Users\User\source\repos\fund methods exe\06. middle characters\bin\Debug\netcoreapp3.1\06. middle characters.deps.json
+C:\Users\User\source\repos\fund methods exe\06. middle characters\bin\Debug\netcoreapp3.1\06. middle characters.runtimeconfig.json
+C:\Users\User\source\repos\fund methods exe\06. middle characters\bin\Debug\netcoreapp3.1\06. middle characters.runtimeconfig.dev.json
+C:\Users\User\source\repos\fund methods exe\06. middle characters\bin\Debug\netcoreapp3.1\06. middle characters.dll
+C:\Users\User\source\repos\fund methods exe\06. middle characters\bin\Debug\netcoreapp3.1\06. middle characters.pdb
+C:\Users\User\source\repos\fund methods exe\06. middle characters\obj\Debug\netcoreapp3.1\06. middle characters.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\fund methods exe\06. middle characters\obj\Debug\netcoreapp3.1\06. middle characters.AssemblyInfo.cs
+C:\Users\User\source\repos\fund methods exe\06. middle characters\obj\Debug\netcoreapp3.1\06. middle characters.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\fund methods exe\06. middle characters\obj\Debug\netcoreapp3.1\06. middle characters.dll
+C:\Users\User\source\repos\fund methods exe\06. middle characters\obj\Debug\netcoreapp3.1\06. middle characters.pdb
+C:\Users\User\source\repos\fund methods exe\06. middle characters\obj\Debug\netcoreapp3.1\06. middle characters.genruntimeconfig.cache

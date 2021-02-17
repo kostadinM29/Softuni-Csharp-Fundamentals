@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GsZH7JbEESwP3LsKYjeHZX9G1PUPxc79VjhiPTh/1eOk9mskHXN9GlQG/Y64Y6ZjQen/O0vNbfYV0rRhvPdF8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Fund Basic Syntax Lab\\Fund Basic Syntax Lab\\student info.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

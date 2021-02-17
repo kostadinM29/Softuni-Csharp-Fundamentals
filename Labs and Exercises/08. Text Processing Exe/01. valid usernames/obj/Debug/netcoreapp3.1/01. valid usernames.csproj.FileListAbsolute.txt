@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\fund text process exe\01. valid usernames\bin\Debug\netcoreapp3.1\01. valid usernames.exe
+C:\Users\User\source\repos\fund text process exe\01. valid usernames\bin\Debug\netcoreapp3.1\01. valid usernames.deps.json
+C:\Users\User\source\repos\fund text process exe\01. valid usernames\bin\Debug\netcoreapp3.1\01. valid usernames.runtimeconfig.json
+C:\Users\User\source\repos\fund text process exe\01. valid usernames\bin\Debug\netcoreapp3.1\01. valid usernames.runtimeconfig.dev.json
+C:\Users\User\source\repos\fund text process exe\01. valid usernames\bin\Debug\netcoreapp3.1\01. valid usernames.dll
+C:\Users\User\source\repos\fund text process exe\01. valid usernames\bin\Debug\netcoreapp3.1\01. valid usernames.pdb
+C:\Users\User\source\repos\fund text process exe\01. valid usernames\obj\Debug\netcoreapp3.1\01. valid usernames.csprojAssemblyReference.cache
+C:\Users\User\source\repos\fund text process exe\01. valid usernames\obj\Debug\netcoreapp3.1\01. valid usernames.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\fund text process exe\01. valid usernames\obj\Debug\netcoreapp3.1\01. valid usernames.AssemblyInfo.cs
+C:\Users\User\source\repos\fund text process exe\01. valid usernames\obj\Debug\netcoreapp3.1\01. valid usernames.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\fund text process exe\01. valid usernames\obj\Debug\netcoreapp3.1\01. valid usernames.dll
+C:\Users\User\source\repos\fund text process exe\01. valid usernames\obj\Debug\netcoreapp3.1\01. valid usernames.pdb
+C:\Users\User\source\repos\fund text process exe\01. valid usernames\obj\Debug\netcoreapp3.1\01. valid usernames.genruntimeconfig.cache

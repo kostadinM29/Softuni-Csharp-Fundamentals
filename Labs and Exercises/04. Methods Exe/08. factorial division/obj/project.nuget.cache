@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H3Pht3dm2NpBxRU6AEFnxPCUfrBeRlVYp+XU5GAW0rt2oMw6sQJufUFIHhe0C2qucGB25i7SPb7R5j+kHzyqlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\fund methods exe\\08. factorial division\\08. factorial division.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

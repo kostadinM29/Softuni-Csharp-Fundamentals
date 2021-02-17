@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mNMaNCOlsHHIZkcyb1FEwrG+knPcCUaw81PHZV6UwRm8385txV02Cl2jtq/sP/UCNOUXe9MT8dcQ1yvoWPj6tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Fund Basic Syntax Exe\\07. vending machine\\07. vending machine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

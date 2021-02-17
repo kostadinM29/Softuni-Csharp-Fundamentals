@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\fund regex lab\03. year match\bin\Debug\netcoreapp3.1\03. year match.exe
+C:\Users\User\source\repos\fund regex lab\03. year match\bin\Debug\netcoreapp3.1\03. year match.deps.json
+C:\Users\User\source\repos\fund regex lab\03. year match\bin\Debug\netcoreapp3.1\03. year match.runtimeconfig.json
+C:\Users\User\source\repos\fund regex lab\03. year match\bin\Debug\netcoreapp3.1\03. year match.runtimeconfig.dev.json
+C:\Users\User\source\repos\fund regex lab\03. year match\bin\Debug\netcoreapp3.1\03. year match.dll
+C:\Users\User\source\repos\fund regex lab\03. year match\bin\Debug\netcoreapp3.1\03. year match.pdb
+C:\Users\User\source\repos\fund regex lab\03. year match\obj\Debug\netcoreapp3.1\03. year match.csprojAssemblyReference.cache
+C:\Users\User\source\repos\fund regex lab\03. year match\obj\Debug\netcoreapp3.1\03. year match.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\fund regex lab\03. year match\obj\Debug\netcoreapp3.1\03. year match.AssemblyInfo.cs
+C:\Users\User\source\repos\fund regex lab\03. year match\obj\Debug\netcoreapp3.1\03. year match.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\fund regex lab\03. year match\obj\Debug\netcoreapp3.1\03. year match.dll
+C:\Users\User\source\repos\fund regex lab\03. year match\obj\Debug\netcoreapp3.1\03. year match.pdb
+C:\Users\User\source\repos\fund regex lab\03. year match\obj\Debug\netcoreapp3.1\03. year match.genruntimeconfig.cache

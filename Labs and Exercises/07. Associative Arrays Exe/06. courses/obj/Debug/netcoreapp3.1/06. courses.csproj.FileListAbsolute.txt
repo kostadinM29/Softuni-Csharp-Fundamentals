@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\fund ass arrays exe\06. courses\bin\Debug\netcoreapp3.1\06. courses.exe
+C:\Users\User\source\repos\fund ass arrays exe\06. courses\bin\Debug\netcoreapp3.1\06. courses.deps.json
+C:\Users\User\source\repos\fund ass arrays exe\06. courses\bin\Debug\netcoreapp3.1\06. courses.runtimeconfig.json
+C:\Users\User\source\repos\fund ass arrays exe\06. courses\bin\Debug\netcoreapp3.1\06. courses.runtimeconfig.dev.json
+C:\Users\User\source\repos\fund ass arrays exe\06. courses\bin\Debug\netcoreapp3.1\06. courses.dll
+C:\Users\User\source\repos\fund ass arrays exe\06. courses\bin\Debug\netcoreapp3.1\06. courses.pdb
+C:\Users\User\source\repos\fund ass arrays exe\06. courses\obj\Debug\netcoreapp3.1\06. courses.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\fund ass arrays exe\06. courses\obj\Debug\netcoreapp3.1\06. courses.AssemblyInfo.cs
+C:\Users\User\source\repos\fund ass arrays exe\06. courses\obj\Debug\netcoreapp3.1\06. courses.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\fund ass arrays exe\06. courses\obj\Debug\netcoreapp3.1\06. courses.dll
+C:\Users\User\source\repos\fund ass arrays exe\06. courses\obj\Debug\netcoreapp3.1\06. courses.pdb
+C:\Users\User\source\repos\fund ass arrays exe\06. courses\obj\Debug\netcoreapp3.1\06. courses.genruntimeconfig.cache

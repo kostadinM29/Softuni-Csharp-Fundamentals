@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\fund ass arrays exe\05. softuni parking\bin\Debug\netcoreapp3.1\05. softuni parking.exe
+C:\Users\User\source\repos\fund ass arrays exe\05. softuni parking\bin\Debug\netcoreapp3.1\05. softuni parking.deps.json
+C:\Users\User\source\repos\fund ass arrays exe\05. softuni parking\bin\Debug\netcoreapp3.1\05. softuni parking.runtimeconfig.json
+C:\Users\User\source\repos\fund ass arrays exe\05. softuni parking\bin\Debug\netcoreapp3.1\05. softuni parking.runtimeconfig.dev.json
+C:\Users\User\source\repos\fund ass arrays exe\05. softuni parking\bin\Debug\netcoreapp3.1\05. softuni parking.dll
+C:\Users\User\source\repos\fund ass arrays exe\05. softuni parking\bin\Debug\netcoreapp3.1\05. softuni parking.pdb
+C:\Users\User\source\repos\fund ass arrays exe\05. softuni parking\obj\Debug\netcoreapp3.1\05. softuni parking.csprojAssemblyReference.cache
+C:\Users\User\source\repos\fund ass arrays exe\05. softuni parking\obj\Debug\netcoreapp3.1\05. softuni parking.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\fund ass arrays exe\05. softuni parking\obj\Debug\netcoreapp3.1\05. softuni parking.AssemblyInfo.cs
+C:\Users\User\source\repos\fund ass arrays exe\05. softuni parking\obj\Debug\netcoreapp3.1\05. softuni parking.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\fund ass arrays exe\05. softuni parking\obj\Debug\netcoreapp3.1\05. softuni parking.dll
+C:\Users\User\source\repos\fund ass arrays exe\05. softuni parking\obj\Debug\netcoreapp3.1\05. softuni parking.pdb
+C:\Users\User\source\repos\fund ass arrays exe\05. softuni parking\obj\Debug\netcoreapp3.1\05. softuni parking.genruntimeconfig.cache

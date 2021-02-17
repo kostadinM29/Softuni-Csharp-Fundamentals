@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\fund lists lab\03. merging lists\obj\Debug\netcoreapp3.1\03. merging lists.csprojAssemblyReference.cache
+C:\Users\User\source\repos\fund lists lab\03. merging lists\obj\Debug\netcoreapp3.1\03. merging lists.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\fund lists lab\03. merging lists\obj\Debug\netcoreapp3.1\03. merging lists.AssemblyInfo.cs
+C:\Users\User\source\repos\fund lists lab\03. merging lists\obj\Debug\netcoreapp3.1\03. merging lists.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\fund lists lab\03. merging lists\bin\Debug\netcoreapp3.1\03. merging lists.exe
+C:\Users\User\source\repos\fund lists lab\03. merging lists\bin\Debug\netcoreapp3.1\03. merging lists.deps.json
+C:\Users\User\source\repos\fund lists lab\03. merging lists\bin\Debug\netcoreapp3.1\03. merging lists.runtimeconfig.json
+C:\Users\User\source\repos\fund lists lab\03. merging lists\bin\Debug\netcoreapp3.1\03. merging lists.runtimeconfig.dev.json
+C:\Users\User\source\repos\fund lists lab\03. merging lists\bin\Debug\netcoreapp3.1\03. merging lists.dll
+C:\Users\User\source\repos\fund lists lab\03. merging lists\bin\Debug\netcoreapp3.1\03. merging lists.pdb
+C:\Users\User\source\repos\fund lists lab\03. merging lists\obj\Debug\netcoreapp3.1\03. merging lists.dll
+C:\Users\User\source\repos\fund lists lab\03. merging lists\obj\Debug\netcoreapp3.1\03. merging lists.pdb
+C:\Users\User\source\repos\fund lists lab\03. merging lists\obj\Debug\netcoreapp3.1\03. merging lists.genruntimeconfig.cache

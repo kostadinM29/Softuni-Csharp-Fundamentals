@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\fund objects and classes exe\0.1 ad\bin\Debug\netcoreapp3.1\0.1 ad.exe
+C:\Users\User\source\repos\fund objects and classes exe\0.1 ad\bin\Debug\netcoreapp3.1\0.1 ad.deps.json
+C:\Users\User\source\repos\fund objects and classes exe\0.1 ad\bin\Debug\netcoreapp3.1\0.1 ad.runtimeconfig.json
+C:\Users\User\source\repos\fund objects and classes exe\0.1 ad\bin\Debug\netcoreapp3.1\0.1 ad.runtimeconfig.dev.json
+C:\Users\User\source\repos\fund objects and classes exe\0.1 ad\bin\Debug\netcoreapp3.1\0.1 ad.dll
+C:\Users\User\source\repos\fund objects and classes exe\0.1 ad\bin\Debug\netcoreapp3.1\0.1 ad.pdb
+C:\Users\User\source\repos\fund objects and classes exe\0.1 ad\obj\Debug\netcoreapp3.1\0.1 ad.csprojAssemblyReference.cache
+C:\Users\User\source\repos\fund objects and classes exe\0.1 ad\obj\Debug\netcoreapp3.1\0.1 ad.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\fund objects and classes exe\0.1 ad\obj\Debug\netcoreapp3.1\0.1 ad.AssemblyInfo.cs
+C:\Users\User\source\repos\fund objects and classes exe\0.1 ad\obj\Debug\netcoreapp3.1\0.1 ad.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\fund objects and classes exe\0.1 ad\obj\Debug\netcoreapp3.1\0.1 ad.dll
+C:\Users\User\source\repos\fund objects and classes exe\0.1 ad\obj\Debug\netcoreapp3.1\0.1 ad.pdb
+C:\Users\User\source\repos\fund objects and classes exe\0.1 ad\obj\Debug\netcoreapp3.1\0.1 ad.genruntimeconfig.cache

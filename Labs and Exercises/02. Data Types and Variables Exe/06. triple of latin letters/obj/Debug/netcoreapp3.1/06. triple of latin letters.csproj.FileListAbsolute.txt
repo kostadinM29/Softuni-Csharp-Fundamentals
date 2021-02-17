@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\01. integer operations\06. triple of latin letters\bin\Debug\netcoreapp3.1\06. triple of latin letters.exe
+C:\Users\User\source\repos\01. integer operations\06. triple of latin letters\bin\Debug\netcoreapp3.1\06. triple of latin letters.deps.json
+C:\Users\User\source\repos\01. integer operations\06. triple of latin letters\bin\Debug\netcoreapp3.1\06. triple of latin letters.runtimeconfig.json
+C:\Users\User\source\repos\01. integer operations\06. triple of latin letters\bin\Debug\netcoreapp3.1\06. triple of latin letters.runtimeconfig.dev.json
+C:\Users\User\source\repos\01. integer operations\06. triple of latin letters\bin\Debug\netcoreapp3.1\06. triple of latin letters.dll
+C:\Users\User\source\repos\01. integer operations\06. triple of latin letters\bin\Debug\netcoreapp3.1\06. triple of latin letters.pdb
+C:\Users\User\source\repos\01. integer operations\06. triple of latin letters\obj\Debug\netcoreapp3.1\06. triple of latin letters.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\01. integer operations\06. triple of latin letters\obj\Debug\netcoreapp3.1\06. triple of latin letters.AssemblyInfo.cs
+C:\Users\User\source\repos\01. integer operations\06. triple of latin letters\obj\Debug\netcoreapp3.1\06. triple of latin letters.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\01. integer operations\06. triple of latin letters\obj\Debug\netcoreapp3.1\06. triple of latin letters.dll
+C:\Users\User\source\repos\01. integer operations\06. triple of latin letters\obj\Debug\netcoreapp3.1\06. triple of latin letters.pdb
+C:\Users\User\source\repos\01. integer operations\06. triple of latin letters\obj\Debug\netcoreapp3.1\06. triple of latin letters.genruntimeconfig.cache

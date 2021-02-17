@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Fund Basic Syntax Lab/1.0.0": {
+        "runtime": {
+          "Fund Basic Syntax Lab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fund Basic Syntax Lab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

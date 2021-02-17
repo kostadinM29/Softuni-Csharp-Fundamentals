@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Fund Basic Syntax Lab\foreign languages\bin\Debug\netcoreapp3.1\foreign languages.exe
+C:\Users\User\source\repos\Fund Basic Syntax Lab\foreign languages\bin\Debug\netcoreapp3.1\foreign languages.deps.json
+C:\Users\User\source\repos\Fund Basic Syntax Lab\foreign languages\bin\Debug\netcoreapp3.1\foreign languages.runtimeconfig.json
+C:\Users\User\source\repos\Fund Basic Syntax Lab\foreign languages\bin\Debug\netcoreapp3.1\foreign languages.runtimeconfig.dev.json
+C:\Users\User\source\repos\Fund Basic Syntax Lab\foreign languages\bin\Debug\netcoreapp3.1\foreign languages.dll
+C:\Users\User\source\repos\Fund Basic Syntax Lab\foreign languages\bin\Debug\netcoreapp3.1\foreign languages.pdb
+C:\Users\User\source\repos\Fund Basic Syntax Lab\foreign languages\obj\Debug\netcoreapp3.1\foreign languages.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Fund Basic Syntax Lab\foreign languages\obj\Debug\netcoreapp3.1\foreign languages.AssemblyInfo.cs
+C:\Users\User\source\repos\Fund Basic Syntax Lab\foreign languages\obj\Debug\netcoreapp3.1\foreign languages.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fund Basic Syntax Lab\foreign languages\obj\Debug\netcoreapp3.1\foreign languages.dll
+C:\Users\User\source\repos\Fund Basic Syntax Lab\foreign languages\obj\Debug\netcoreapp3.1\foreign languages.pdb
+C:\Users\User\source\repos\Fund Basic Syntax Lab\foreign languages\obj\Debug\netcoreapp3.1\foreign languages.genruntimeconfig.cache

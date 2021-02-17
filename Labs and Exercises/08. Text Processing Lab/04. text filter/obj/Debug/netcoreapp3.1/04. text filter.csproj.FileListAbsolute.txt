@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\fund text processing lab\04. text filter\obj\Debug\netcoreapp3.1\04. text filter.csprojAssemblyReference.cache
+C:\Users\User\source\repos\fund text processing lab\04. text filter\obj\Debug\netcoreapp3.1\04. text filter.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\fund text processing lab\04. text filter\obj\Debug\netcoreapp3.1\04. text filter.AssemblyInfo.cs
+C:\Users\User\source\repos\fund text processing lab\04. text filter\obj\Debug\netcoreapp3.1\04. text filter.csproj.CoreCompileInputs.cache

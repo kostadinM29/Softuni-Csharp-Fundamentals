@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\fund ass arrays exe\02. miner task\bin\Debug\netcoreapp3.1\02. miner task.exe
+C:\Users\User\source\repos\fund ass arrays exe\02. miner task\bin\Debug\netcoreapp3.1\02. miner task.deps.json
+C:\Users\User\source\repos\fund ass arrays exe\02. miner task\bin\Debug\netcoreapp3.1\02. miner task.runtimeconfig.json
+C:\Users\User\source\repos\fund ass arrays exe\02. miner task\bin\Debug\netcoreapp3.1\02. miner task.runtimeconfig.dev.json
+C:\Users\User\source\repos\fund ass arrays exe\02. miner task\bin\Debug\netcoreapp3.1\02. miner task.dll
+C:\Users\User\source\repos\fund ass arrays exe\02. miner task\bin\Debug\netcoreapp3.1\02. miner task.pdb
+C:\Users\User\source\repos\fund ass arrays exe\02. miner task\obj\Debug\netcoreapp3.1\02. miner task.csprojAssemblyReference.cache
+C:\Users\User\source\repos\fund ass arrays exe\02. miner task\obj\Debug\netcoreapp3.1\02. miner task.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\fund ass arrays exe\02. miner task\obj\Debug\netcoreapp3.1\02. miner task.AssemblyInfo.cs
+C:\Users\User\source\repos\fund ass arrays exe\02. miner task\obj\Debug\netcoreapp3.1\02. miner task.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\fund ass arrays exe\02. miner task\obj\Debug\netcoreapp3.1\02. miner task.dll
+C:\Users\User\source\repos\fund ass arrays exe\02. miner task\obj\Debug\netcoreapp3.1\02. miner task.pdb
+C:\Users\User\source\repos\fund ass arrays exe\02. miner task\obj\Debug\netcoreapp3.1\02. miner task.genruntimeconfig.cache

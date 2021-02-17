@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Fund Basic Syntax Lab\back in 30\bin\Debug\netcoreapp3.1\back in 30.exe
+C:\Users\User\source\repos\Fund Basic Syntax Lab\back in 30\bin\Debug\netcoreapp3.1\back in 30.deps.json
+C:\Users\User\source\repos\Fund Basic Syntax Lab\back in 30\bin\Debug\netcoreapp3.1\back in 30.runtimeconfig.json
+C:\Users\User\source\repos\Fund Basic Syntax Lab\back in 30\bin\Debug\netcoreapp3.1\back in 30.runtimeconfig.dev.json
+C:\Users\User\source\repos\Fund Basic Syntax Lab\back in 30\bin\Debug\netcoreapp3.1\back in 30.dll
+C:\Users\User\source\repos\Fund Basic Syntax Lab\back in 30\bin\Debug\netcoreapp3.1\back in 30.pdb
+C:\Users\User\source\repos\Fund Basic Syntax Lab\back in 30\obj\Debug\netcoreapp3.1\back in 30.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Fund Basic Syntax Lab\back in 30\obj\Debug\netcoreapp3.1\back in 30.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Fund Basic Syntax Lab\back in 30\obj\Debug\netcoreapp3.1\back in 30.AssemblyInfo.cs
+C:\Users\User\source\repos\Fund Basic Syntax Lab\back in 30\obj\Debug\netcoreapp3.1\back in 30.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fund Basic Syntax Lab\back in 30\obj\Debug\netcoreapp3.1\back in 30.dll
+C:\Users\User\source\repos\Fund Basic Syntax Lab\back in 30\obj\Debug\netcoreapp3.1\back in 30.pdb
+C:\Users\User\source\repos\Fund Basic Syntax Lab\back in 30\obj\Debug\netcoreapp3.1\back in 30.genruntimeconfig.cache

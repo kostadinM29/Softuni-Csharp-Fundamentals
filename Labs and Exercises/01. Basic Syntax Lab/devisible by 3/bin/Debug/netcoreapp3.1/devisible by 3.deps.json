@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "devisible by 3/1.0.0": {
+        "runtime": {
+          "devisible by 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "devisible by 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tdTpATmh2Pfze7eh03xT624caPr2rsH5zWBOIldJbZPwYXsNi7oYf+HnlY7ec1fVagMRyTIKBjPu8cNPhWYDPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\fund array lab\\fund array exe\\01. day of week.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

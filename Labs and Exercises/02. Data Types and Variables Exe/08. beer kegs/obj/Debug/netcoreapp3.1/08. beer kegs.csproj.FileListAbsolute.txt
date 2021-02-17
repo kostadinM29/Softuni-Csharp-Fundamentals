@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\01. integer operations\08. beer kegs\bin\Debug\netcoreapp3.1\08. beer kegs.exe
+C:\Users\User\source\repos\01. integer operations\08. beer kegs\bin\Debug\netcoreapp3.1\08. beer kegs.deps.json
+C:\Users\User\source\repos\01. integer operations\08. beer kegs\bin\Debug\netcoreapp3.1\08. beer kegs.runtimeconfig.json
+C:\Users\User\source\repos\01. integer operations\08. beer kegs\bin\Debug\netcoreapp3.1\08. beer kegs.runtimeconfig.dev.json
+C:\Users\User\source\repos\01. integer operations\08. beer kegs\bin\Debug\netcoreapp3.1\08. beer kegs.dll
+C:\Users\User\source\repos\01. integer operations\08. beer kegs\bin\Debug\netcoreapp3.1\08. beer kegs.pdb
+C:\Users\User\source\repos\01. integer operations\08. beer kegs\obj\Debug\netcoreapp3.1\08. beer kegs.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\01. integer operations\08. beer kegs\obj\Debug\netcoreapp3.1\08. beer kegs.AssemblyInfo.cs
+C:\Users\User\source\repos\01. integer operations\08. beer kegs\obj\Debug\netcoreapp3.1\08. beer kegs.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\01. integer operations\08. beer kegs\obj\Debug\netcoreapp3.1\08. beer kegs.dll
+C:\Users\User\source\repos\01. integer operations\08. beer kegs\obj\Debug\netcoreapp3.1\08. beer kegs.pdb
+C:\Users\User\source\repos\01. integer operations\08. beer kegs\obj\Debug\netcoreapp3.1\08. beer kegs.genruntimeconfig.cache

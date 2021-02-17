@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\fund methods exe\10. top num\bin\Debug\netcoreapp3.1\10. top num.exe
+C:\Users\User\source\repos\fund methods exe\10. top num\bin\Debug\netcoreapp3.1\10. top num.deps.json
+C:\Users\User\source\repos\fund methods exe\10. top num\bin\Debug\netcoreapp3.1\10. top num.runtimeconfig.json
+C:\Users\User\source\repos\fund methods exe\10. top num\bin\Debug\netcoreapp3.1\10. top num.runtimeconfig.dev.json
+C:\Users\User\source\repos\fund methods exe\10. top num\bin\Debug\netcoreapp3.1\10. top num.dll
+C:\Users\User\source\repos\fund methods exe\10. top num\bin\Debug\netcoreapp3.1\10. top num.pdb
+C:\Users\User\source\repos\fund methods exe\10. top num\obj\Debug\netcoreapp3.1\10. top num.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\fund methods exe\10. top num\obj\Debug\netcoreapp3.1\10. top num.AssemblyInfo.cs
+C:\Users\User\source\repos\fund methods exe\10. top num\obj\Debug\netcoreapp3.1\10. top num.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\fund methods exe\10. top num\obj\Debug\netcoreapp3.1\10. top num.dll
+C:\Users\User\source\repos\fund methods exe\10. top num\obj\Debug\netcoreapp3.1\10. top num.pdb
+C:\Users\User\source\repos\fund methods exe\10. top num\obj\Debug\netcoreapp3.1\10. top num.genruntimeconfig.cache

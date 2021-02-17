@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\fund method lab\02. grades\bin\Debug\netcoreapp3.1\02. grades.exe
+C:\Users\User\source\repos\fund method lab\02. grades\bin\Debug\netcoreapp3.1\02. grades.deps.json
+C:\Users\User\source\repos\fund method lab\02. grades\bin\Debug\netcoreapp3.1\02. grades.runtimeconfig.json
+C:\Users\User\source\repos\fund method lab\02. grades\bin\Debug\netcoreapp3.1\02. grades.runtimeconfig.dev.json
+C:\Users\User\source\repos\fund method lab\02. grades\bin\Debug\netcoreapp3.1\02. grades.dll
+C:\Users\User\source\repos\fund method lab\02. grades\bin\Debug\netcoreapp3.1\02. grades.pdb
+C:\Users\User\source\repos\fund method lab\02. grades\obj\Debug\netcoreapp3.1\02. grades.csprojAssemblyReference.cache
+C:\Users\User\source\repos\fund method lab\02. grades\obj\Debug\netcoreapp3.1\02. grades.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\fund method lab\02. grades\obj\Debug\netcoreapp3.1\02. grades.AssemblyInfo.cs
+C:\Users\User\source\repos\fund method lab\02. grades\obj\Debug\netcoreapp3.1\02. grades.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\fund method lab\02. grades\obj\Debug\netcoreapp3.1\02. grades.dll
+C:\Users\User\source\repos\fund method lab\02. grades\obj\Debug\netcoreapp3.1\02. grades.pdb
+C:\Users\User\source\repos\fund method lab\02. grades\obj\Debug\netcoreapp3.1\02. grades.genruntimeconfig.cache

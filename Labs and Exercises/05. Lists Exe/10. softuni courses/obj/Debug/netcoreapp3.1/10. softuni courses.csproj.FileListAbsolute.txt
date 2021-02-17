@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\fund lists exe\10. softuni courses\bin\Debug\netcoreapp3.1\10. softuni courses.exe
+C:\Users\User\source\repos\fund lists exe\10. softuni courses\bin\Debug\netcoreapp3.1\10. softuni courses.deps.json
+C:\Users\User\source\repos\fund lists exe\10. softuni courses\bin\Debug\netcoreapp3.1\10. softuni courses.runtimeconfig.json
+C:\Users\User\source\repos\fund lists exe\10. softuni courses\bin\Debug\netcoreapp3.1\10. softuni courses.runtimeconfig.dev.json
+C:\Users\User\source\repos\fund lists exe\10. softuni courses\bin\Debug\netcoreapp3.1\10. softuni courses.dll
+C:\Users\User\source\repos\fund lists exe\10. softuni courses\bin\Debug\netcoreapp3.1\10. softuni courses.pdb
+C:\Users\User\source\repos\fund lists exe\10. softuni courses\obj\Debug\netcoreapp3.1\10. softuni courses.csprojAssemblyReference.cache
+C:\Users\User\source\repos\fund lists exe\10. softuni courses\obj\Debug\netcoreapp3.1\10. softuni courses.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\fund lists exe\10. softuni courses\obj\Debug\netcoreapp3.1\10. softuni courses.AssemblyInfo.cs
+C:\Users\User\source\repos\fund lists exe\10. softuni courses\obj\Debug\netcoreapp3.1\10. softuni courses.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\fund lists exe\10. softuni courses\obj\Debug\netcoreapp3.1\10. softuni courses.dll
+C:\Users\User\source\repos\fund lists exe\10. softuni courses\obj\Debug\netcoreapp3.1\10. softuni courses.pdb
+C:\Users\User\source\repos\fund lists exe\10. softuni courses\obj\Debug\netcoreapp3.1\10. softuni courses.genruntimeconfig.cache

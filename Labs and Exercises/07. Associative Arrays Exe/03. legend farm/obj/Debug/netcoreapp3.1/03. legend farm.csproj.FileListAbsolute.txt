@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\fund ass arrays exe\03. legend farm\bin\Debug\netcoreapp3.1\03. legend farm.exe
+C:\Users\User\source\repos\fund ass arrays exe\03. legend farm\bin\Debug\netcoreapp3.1\03. legend farm.deps.json
+C:\Users\User\source\repos\fund ass arrays exe\03. legend farm\bin\Debug\netcoreapp3.1\03. legend farm.runtimeconfig.json
+C:\Users\User\source\repos\fund ass arrays exe\03. legend farm\bin\Debug\netcoreapp3.1\03. legend farm.runtimeconfig.dev.json
+C:\Users\User\source\repos\fund ass arrays exe\03. legend farm\bin\Debug\netcoreapp3.1\03. legend farm.dll
+C:\Users\User\source\repos\fund ass arrays exe\03. legend farm\bin\Debug\netcoreapp3.1\03. legend farm.pdb
+C:\Users\User\source\repos\fund ass arrays exe\03. legend farm\obj\Debug\netcoreapp3.1\03. legend farm.csprojAssemblyReference.cache
+C:\Users\User\source\repos\fund ass arrays exe\03. legend farm\obj\Debug\netcoreapp3.1\03. legend farm.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\fund ass arrays exe\03. legend farm\obj\Debug\netcoreapp3.1\03. legend farm.AssemblyInfo.cs
+C:\Users\User\source\repos\fund ass arrays exe\03. legend farm\obj\Debug\netcoreapp3.1\03. legend farm.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\fund ass arrays exe\03. legend farm\obj\Debug\netcoreapp3.1\03. legend farm.dll
+C:\Users\User\source\repos\fund ass arrays exe\03. legend farm\obj\Debug\netcoreapp3.1\03. legend farm.pdb
+C:\Users\User\source\repos\fund ass arrays exe\03. legend farm\obj\Debug\netcoreapp3.1\03. legend farm.genruntimeconfig.cache

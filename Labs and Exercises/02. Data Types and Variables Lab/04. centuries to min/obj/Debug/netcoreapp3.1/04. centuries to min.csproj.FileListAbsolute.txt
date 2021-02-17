@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Fund data var lab\04. centuries to min\bin\Debug\netcoreapp3.1\04. centuries to min.exe
+C:\Users\User\source\repos\Fund data var lab\04. centuries to min\bin\Debug\netcoreapp3.1\04. centuries to min.deps.json
+C:\Users\User\source\repos\Fund data var lab\04. centuries to min\bin\Debug\netcoreapp3.1\04. centuries to min.runtimeconfig.json
+C:\Users\User\source\repos\Fund data var lab\04. centuries to min\bin\Debug\netcoreapp3.1\04. centuries to min.runtimeconfig.dev.json
+C:\Users\User\source\repos\Fund data var lab\04. centuries to min\bin\Debug\netcoreapp3.1\04. centuries to min.dll
+C:\Users\User\source\repos\Fund data var lab\04. centuries to min\bin\Debug\netcoreapp3.1\04. centuries to min.pdb
+C:\Users\User\source\repos\Fund data var lab\04. centuries to min\obj\Debug\netcoreapp3.1\04. centuries to min.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Fund data var lab\04. centuries to min\obj\Debug\netcoreapp3.1\04. centuries to min.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Fund data var lab\04. centuries to min\obj\Debug\netcoreapp3.1\04. centuries to min.AssemblyInfo.cs
+C:\Users\User\source\repos\Fund data var lab\04. centuries to min\obj\Debug\netcoreapp3.1\04. centuries to min.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fund data var lab\04. centuries to min\obj\Debug\netcoreapp3.1\04. centuries to min.dll
+C:\Users\User\source\repos\Fund data var lab\04. centuries to min\obj\Debug\netcoreapp3.1\04. centuries to min.pdb
+C:\Users\User\source\repos\Fund data var lab\04. centuries to min\obj\Debug\netcoreapp3.1\04. centuries to min.genruntimeconfig.cache

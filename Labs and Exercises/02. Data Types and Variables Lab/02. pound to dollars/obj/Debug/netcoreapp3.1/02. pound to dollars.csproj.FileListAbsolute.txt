@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Fund data var lab\02. pound to dollars\bin\Debug\netcoreapp3.1\02. pound to dollars.exe
+C:\Users\User\source\repos\Fund data var lab\02. pound to dollars\bin\Debug\netcoreapp3.1\02. pound to dollars.deps.json
+C:\Users\User\source\repos\Fund data var lab\02. pound to dollars\bin\Debug\netcoreapp3.1\02. pound to dollars.runtimeconfig.json
+C:\Users\User\source\repos\Fund data var lab\02. pound to dollars\bin\Debug\netcoreapp3.1\02. pound to dollars.runtimeconfig.dev.json
+C:\Users\User\source\repos\Fund data var lab\02. pound to dollars\bin\Debug\netcoreapp3.1\02. pound to dollars.dll
+C:\Users\User\source\repos\Fund data var lab\02. pound to dollars\bin\Debug\netcoreapp3.1\02. pound to dollars.pdb
+C:\Users\User\source\repos\Fund data var lab\02. pound to dollars\obj\Debug\netcoreapp3.1\02. pound to dollars.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Fund data var lab\02. pound to dollars\obj\Debug\netcoreapp3.1\02. pound to dollars.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Fund data var lab\02. pound to dollars\obj\Debug\netcoreapp3.1\02. pound to dollars.AssemblyInfo.cs
+C:\Users\User\source\repos\Fund data var lab\02. pound to dollars\obj\Debug\netcoreapp3.1\02. pound to dollars.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fund data var lab\02. pound to dollars\obj\Debug\netcoreapp3.1\02. pound to dollars.dll
+C:\Users\User\source\repos\Fund data var lab\02. pound to dollars\obj\Debug\netcoreapp3.1\02. pound to dollars.pdb
+C:\Users\User\source\repos\Fund data var lab\02. pound to dollars\obj\Debug\netcoreapp3.1\02. pound to dollars.genruntimeconfig.cache

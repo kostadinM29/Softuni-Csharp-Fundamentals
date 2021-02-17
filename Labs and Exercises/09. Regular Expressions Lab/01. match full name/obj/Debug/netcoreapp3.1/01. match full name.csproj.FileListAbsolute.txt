@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\fund regex lab\01. match full name\bin\Debug\netcoreapp3.1\01. match full name.exe
+C:\Users\User\source\repos\fund regex lab\01. match full name\bin\Debug\netcoreapp3.1\01. match full name.deps.json
+C:\Users\User\source\repos\fund regex lab\01. match full name\bin\Debug\netcoreapp3.1\01. match full name.runtimeconfig.json
+C:\Users\User\source\repos\fund regex lab\01. match full name\bin\Debug\netcoreapp3.1\01. match full name.runtimeconfig.dev.json
+C:\Users\User\source\repos\fund regex lab\01. match full name\bin\Debug\netcoreapp3.1\01. match full name.dll
+C:\Users\User\source\repos\fund regex lab\01. match full name\bin\Debug\netcoreapp3.1\01. match full name.pdb
+C:\Users\User\source\repos\fund regex lab\01. match full name\obj\Debug\netcoreapp3.1\01. match full name.csprojAssemblyReference.cache
+C:\Users\User\source\repos\fund regex lab\01. match full name\obj\Debug\netcoreapp3.1\01. match full name.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\fund regex lab\01. match full name\obj\Debug\netcoreapp3.1\01. match full name.AssemblyInfo.cs
+C:\Users\User\source\repos\fund regex lab\01. match full name\obj\Debug\netcoreapp3.1\01. match full name.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\fund regex lab\01. match full name\obj\Debug\netcoreapp3.1\01. match full name.dll
+C:\Users\User\source\repos\fund regex lab\01. match full name\obj\Debug\netcoreapp3.1\01. match full name.pdb
+C:\Users\User\source\repos\fund regex lab\01. match full name\obj\Debug\netcoreapp3.1\01. match full name.genruntimeconfig.cache

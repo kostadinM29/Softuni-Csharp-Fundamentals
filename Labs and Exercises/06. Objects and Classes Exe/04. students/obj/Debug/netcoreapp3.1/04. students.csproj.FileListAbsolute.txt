@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\fund objects and classes exe\04. students\bin\Debug\netcoreapp3.1\04. students.exe
+C:\Users\User\source\repos\fund objects and classes exe\04. students\bin\Debug\netcoreapp3.1\04. students.deps.json
+C:\Users\User\source\repos\fund objects and classes exe\04. students\bin\Debug\netcoreapp3.1\04. students.runtimeconfig.json
+C:\Users\User\source\repos\fund objects and classes exe\04. students\bin\Debug\netcoreapp3.1\04. students.runtimeconfig.dev.json
+C:\Users\User\source\repos\fund objects and classes exe\04. students\bin\Debug\netcoreapp3.1\04. students.dll
+C:\Users\User\source\repos\fund objects and classes exe\04. students\bin\Debug\netcoreapp3.1\04. students.pdb
+C:\Users\User\source\repos\fund objects and classes exe\04. students\obj\Debug\netcoreapp3.1\04. students.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\fund objects and classes exe\04. students\obj\Debug\netcoreapp3.1\04. students.AssemblyInfo.cs
+C:\Users\User\source\repos\fund objects and classes exe\04. students\obj\Debug\netcoreapp3.1\04. students.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\fund objects and classes exe\04. students\obj\Debug\netcoreapp3.1\04. students.dll
+C:\Users\User\source\repos\fund objects and classes exe\04. students\obj\Debug\netcoreapp3.1\04. students.pdb
+C:\Users\User\source\repos\fund objects and classes exe\04. students\obj\Debug\netcoreapp3.1\04. students.genruntimeconfig.cache

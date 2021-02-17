@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\fund lists lab\05. remove negatives and reverse\bin\Debug\netcoreapp3.1\05. remove negatives and reverse.exe
+C:\Users\User\source\repos\fund lists lab\05. remove negatives and reverse\bin\Debug\netcoreapp3.1\05. remove negatives and reverse.deps.json
+C:\Users\User\source\repos\fund lists lab\05. remove negatives and reverse\bin\Debug\netcoreapp3.1\05. remove negatives and reverse.runtimeconfig.json
+C:\Users\User\source\repos\fund lists lab\05. remove negatives and reverse\bin\Debug\netcoreapp3.1\05. remove negatives and reverse.runtimeconfig.dev.json
+C:\Users\User\source\repos\fund lists lab\05. remove negatives and reverse\bin\Debug\netcoreapp3.1\05. remove negatives and reverse.dll
+C:\Users\User\source\repos\fund lists lab\05. remove negatives and reverse\bin\Debug\netcoreapp3.1\05. remove negatives and reverse.pdb
+C:\Users\User\source\repos\fund lists lab\05. remove negatives and reverse\obj\Debug\netcoreapp3.1\05. remove negatives and reverse.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\fund lists lab\05. remove negatives and reverse\obj\Debug\netcoreapp3.1\05. remove negatives and reverse.AssemblyInfo.cs
+C:\Users\User\source\repos\fund lists lab\05. remove negatives and reverse\obj\Debug\netcoreapp3.1\05. remove negatives and reverse.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\fund lists lab\05. remove negatives and reverse\obj\Debug\netcoreapp3.1\05. remove negatives and reverse.dll
+C:\Users\User\source\repos\fund lists lab\05. remove negatives and reverse\obj\Debug\netcoreapp3.1\05. remove negatives and reverse.pdb
+C:\Users\User\source\repos\fund lists lab\05. remove negatives and reverse\obj\Debug\netcoreapp3.1\05. remove negatives and reverse.genruntimeconfig.cache

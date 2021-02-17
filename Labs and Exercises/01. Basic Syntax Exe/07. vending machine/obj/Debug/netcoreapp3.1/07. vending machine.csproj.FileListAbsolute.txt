@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Fund Basic Syntax Exe\07. vending machine\bin\Debug\netcoreapp3.1\07. vending machine.exe
+C:\Users\User\source\repos\Fund Basic Syntax Exe\07. vending machine\bin\Debug\netcoreapp3.1\07. vending machine.deps.json
+C:\Users\User\source\repos\Fund Basic Syntax Exe\07. vending machine\bin\Debug\netcoreapp3.1\07. vending machine.runtimeconfig.json
+C:\Users\User\source\repos\Fund Basic Syntax Exe\07. vending machine\bin\Debug\netcoreapp3.1\07. vending machine.runtimeconfig.dev.json
+C:\Users\User\source\repos\Fund Basic Syntax Exe\07. vending machine\bin\Debug\netcoreapp3.1\07. vending machine.dll
+C:\Users\User\source\repos\Fund Basic Syntax Exe\07. vending machine\bin\Debug\netcoreapp3.1\07. vending machine.pdb
+C:\Users\User\source\repos\Fund Basic Syntax Exe\07. vending machine\obj\Debug\netcoreapp3.1\07. vending machine.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Fund Basic Syntax Exe\07. vending machine\obj\Debug\netcoreapp3.1\07. vending machine.AssemblyInfo.cs
+C:\Users\User\source\repos\Fund Basic Syntax Exe\07. vending machine\obj\Debug\netcoreapp3.1\07. vending machine.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fund Basic Syntax Exe\07. vending machine\obj\Debug\netcoreapp3.1\07. vending machine.dll
+C:\Users\User\source\repos\Fund Basic Syntax Exe\07. vending machine\obj\Debug\netcoreapp3.1\07. vending machine.pdb
+C:\Users\User\source\repos\Fund Basic Syntax Exe\07. vending machine\obj\Debug\netcoreapp3.1\07. vending machine.genruntimeconfig.cache
+C:\Users\User\source\repos\Fund Basic Syntax Exe\07. vending machine\obj\Debug\netcoreapp3.1\07. vending machine.csprojAssemblyReference.cache

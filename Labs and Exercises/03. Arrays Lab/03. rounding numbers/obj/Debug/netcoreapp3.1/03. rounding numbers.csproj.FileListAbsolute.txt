@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\01. day of week\03. rounding numbers\bin\Debug\netcoreapp3.1\03. rounding numbers.exe
+C:\Users\User\source\repos\01. day of week\03. rounding numbers\bin\Debug\netcoreapp3.1\03. rounding numbers.deps.json
+C:\Users\User\source\repos\01. day of week\03. rounding numbers\bin\Debug\netcoreapp3.1\03. rounding numbers.runtimeconfig.json
+C:\Users\User\source\repos\01. day of week\03. rounding numbers\bin\Debug\netcoreapp3.1\03. rounding numbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\01. day of week\03. rounding numbers\bin\Debug\netcoreapp3.1\03. rounding numbers.dll
+C:\Users\User\source\repos\01. day of week\03. rounding numbers\bin\Debug\netcoreapp3.1\03. rounding numbers.pdb
+C:\Users\User\source\repos\01. day of week\03. rounding numbers\obj\Debug\netcoreapp3.1\03. rounding numbers.csprojAssemblyReference.cache
+C:\Users\User\source\repos\01. day of week\03. rounding numbers\obj\Debug\netcoreapp3.1\03. rounding numbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\01. day of week\03. rounding numbers\obj\Debug\netcoreapp3.1\03. rounding numbers.AssemblyInfo.cs
+C:\Users\User\source\repos\01. day of week\03. rounding numbers\obj\Debug\netcoreapp3.1\03. rounding numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\01. day of week\03. rounding numbers\obj\Debug\netcoreapp3.1\03. rounding numbers.dll
+C:\Users\User\source\repos\01. day of week\03. rounding numbers\obj\Debug\netcoreapp3.1\03. rounding numbers.pdb
+C:\Users\User\source\repos\01. day of week\03. rounding numbers\obj\Debug\netcoreapp3.1\03. rounding numbers.genruntimeconfig.cache

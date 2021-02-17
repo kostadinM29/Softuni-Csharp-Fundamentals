@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PqJySSN/R9GwuMCxSQ7AL5V3Ay+SWn+jUv8FMNq9WE5sbhb+ze1QYy/Kw2mmu9GBPb+34fx2r4hj8uN7xRZEJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\fund methods exe\\04. password validator\\04. password validator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

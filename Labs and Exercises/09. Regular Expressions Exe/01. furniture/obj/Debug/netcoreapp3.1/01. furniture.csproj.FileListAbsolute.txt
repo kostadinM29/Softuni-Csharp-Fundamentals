@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\fund regex exe\01. furniture\bin\Debug\netcoreapp3.1\01. furniture.exe
+C:\Users\User\source\repos\fund regex exe\01. furniture\bin\Debug\netcoreapp3.1\01. furniture.deps.json
+C:\Users\User\source\repos\fund regex exe\01. furniture\bin\Debug\netcoreapp3.1\01. furniture.runtimeconfig.json
+C:\Users\User\source\repos\fund regex exe\01. furniture\bin\Debug\netcoreapp3.1\01. furniture.runtimeconfig.dev.json
+C:\Users\User\source\repos\fund regex exe\01. furniture\bin\Debug\netcoreapp3.1\01. furniture.dll
+C:\Users\User\source\repos\fund regex exe\01. furniture\bin\Debug\netcoreapp3.1\01. furniture.pdb
+C:\Users\User\source\repos\fund regex exe\01. furniture\obj\Debug\netcoreapp3.1\01. furniture.csprojAssemblyReference.cache
+C:\Users\User\source\repos\fund regex exe\01. furniture\obj\Debug\netcoreapp3.1\01. furniture.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\fund regex exe\01. furniture\obj\Debug\netcoreapp3.1\01. furniture.AssemblyInfo.cs
+C:\Users\User\source\repos\fund regex exe\01. furniture\obj\Debug\netcoreapp3.1\01. furniture.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\fund regex exe\01. furniture\obj\Debug\netcoreapp3.1\01. furniture.dll
+C:\Users\User\source\repos\fund regex exe\01. furniture\obj\Debug\netcoreapp3.1\01. furniture.pdb
+C:\Users\User\source\repos\fund regex exe\01. furniture\obj\Debug\netcoreapp3.1\01. furniture.genruntimeconfig.cache

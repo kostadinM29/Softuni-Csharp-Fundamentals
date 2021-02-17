@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\fund text process exe\06. replace repeating\bin\Debug\netcoreapp3.1\06. replace repeating.exe
+C:\Users\User\source\repos\fund text process exe\06. replace repeating\bin\Debug\netcoreapp3.1\06. replace repeating.deps.json
+C:\Users\User\source\repos\fund text process exe\06. replace repeating\bin\Debug\netcoreapp3.1\06. replace repeating.runtimeconfig.json
+C:\Users\User\source\repos\fund text process exe\06. replace repeating\bin\Debug\netcoreapp3.1\06. replace repeating.runtimeconfig.dev.json
+C:\Users\User\source\repos\fund text process exe\06. replace repeating\bin\Debug\netcoreapp3.1\06. replace repeating.dll
+C:\Users\User\source\repos\fund text process exe\06. replace repeating\bin\Debug\netcoreapp3.1\06. replace repeating.pdb
+C:\Users\User\source\repos\fund text process exe\06. replace repeating\obj\Debug\netcoreapp3.1\06. replace repeating.csprojAssemblyReference.cache
+C:\Users\User\source\repos\fund text process exe\06. replace repeating\obj\Debug\netcoreapp3.1\06. replace repeating.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\fund text process exe\06. replace repeating\obj\Debug\netcoreapp3.1\06. replace repeating.AssemblyInfo.cs
+C:\Users\User\source\repos\fund text process exe\06. replace repeating\obj\Debug\netcoreapp3.1\06. replace repeating.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\fund text process exe\06. replace repeating\obj\Debug\netcoreapp3.1\06. replace repeating.dll
+C:\Users\User\source\repos\fund text process exe\06. replace repeating\obj\Debug\netcoreapp3.1\06. replace repeating.pdb
+C:\Users\User\source\repos\fund text process exe\06. replace repeating\obj\Debug\netcoreapp3.1\06. replace repeating.genruntimeconfig.cache

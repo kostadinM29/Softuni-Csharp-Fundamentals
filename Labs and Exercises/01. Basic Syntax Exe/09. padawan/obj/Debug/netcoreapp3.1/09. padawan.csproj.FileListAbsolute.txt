@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Fund Basic Syntax Exe\09. padawan\bin\Debug\netcoreapp3.1\09. padawan.exe
+C:\Users\User\source\repos\Fund Basic Syntax Exe\09. padawan\bin\Debug\netcoreapp3.1\09. padawan.deps.json
+C:\Users\User\source\repos\Fund Basic Syntax Exe\09. padawan\bin\Debug\netcoreapp3.1\09. padawan.runtimeconfig.json
+C:\Users\User\source\repos\Fund Basic Syntax Exe\09. padawan\bin\Debug\netcoreapp3.1\09. padawan.runtimeconfig.dev.json
+C:\Users\User\source\repos\Fund Basic Syntax Exe\09. padawan\bin\Debug\netcoreapp3.1\09. padawan.dll
+C:\Users\User\source\repos\Fund Basic Syntax Exe\09. padawan\bin\Debug\netcoreapp3.1\09. padawan.pdb
+C:\Users\User\source\repos\Fund Basic Syntax Exe\09. padawan\obj\Debug\netcoreapp3.1\09. padawan.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Fund Basic Syntax Exe\09. padawan\obj\Debug\netcoreapp3.1\09. padawan.AssemblyInfo.cs
+C:\Users\User\source\repos\Fund Basic Syntax Exe\09. padawan\obj\Debug\netcoreapp3.1\09. padawan.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fund Basic Syntax Exe\09. padawan\obj\Debug\netcoreapp3.1\09. padawan.dll
+C:\Users\User\source\repos\Fund Basic Syntax Exe\09. padawan\obj\Debug\netcoreapp3.1\09. padawan.pdb
+C:\Users\User\source\repos\Fund Basic Syntax Exe\09. padawan\obj\Debug\netcoreapp3.1\09. padawan.genruntimeconfig.cache

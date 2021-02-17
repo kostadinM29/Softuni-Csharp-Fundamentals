@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\fund regex exe\04. star enigma\bin\Debug\netcoreapp3.1\04. star enigma.exe
+C:\Users\User\source\repos\fund regex exe\04. star enigma\bin\Debug\netcoreapp3.1\04. star enigma.deps.json
+C:\Users\User\source\repos\fund regex exe\04. star enigma\bin\Debug\netcoreapp3.1\04. star enigma.runtimeconfig.json
+C:\Users\User\source\repos\fund regex exe\04. star enigma\bin\Debug\netcoreapp3.1\04. star enigma.runtimeconfig.dev.json
+C:\Users\User\source\repos\fund regex exe\04. star enigma\bin\Debug\netcoreapp3.1\04. star enigma.dll
+C:\Users\User\source\repos\fund regex exe\04. star enigma\bin\Debug\netcoreapp3.1\04. star enigma.pdb
+C:\Users\User\source\repos\fund regex exe\04. star enigma\obj\Debug\netcoreapp3.1\04. star enigma.csprojAssemblyReference.cache
+C:\Users\User\source\repos\fund regex exe\04. star enigma\obj\Debug\netcoreapp3.1\04. star enigma.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\fund regex exe\04. star enigma\obj\Debug\netcoreapp3.1\04. star enigma.AssemblyInfo.cs
+C:\Users\User\source\repos\fund regex exe\04. star enigma\obj\Debug\netcoreapp3.1\04. star enigma.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\fund regex exe\04. star enigma\obj\Debug\netcoreapp3.1\04. star enigma.dll
+C:\Users\User\source\repos\fund regex exe\04. star enigma\obj\Debug\netcoreapp3.1\04. star enigma.pdb
+C:\Users\User\source\repos\fund regex exe\04. star enigma\obj\Debug\netcoreapp3.1\04. star enigma.genruntimeconfig.cache

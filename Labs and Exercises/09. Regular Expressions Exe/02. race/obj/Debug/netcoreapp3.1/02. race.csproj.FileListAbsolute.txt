@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\fund regex exe\02. race\bin\Debug\netcoreapp3.1\02. race.exe
+C:\Users\User\source\repos\fund regex exe\02. race\bin\Debug\netcoreapp3.1\02. race.deps.json
+C:\Users\User\source\repos\fund regex exe\02. race\bin\Debug\netcoreapp3.1\02. race.runtimeconfig.json
+C:\Users\User\source\repos\fund regex exe\02. race\bin\Debug\netcoreapp3.1\02. race.runtimeconfig.dev.json
+C:\Users\User\source\repos\fund regex exe\02. race\bin\Debug\netcoreapp3.1\02. race.dll
+C:\Users\User\source\repos\fund regex exe\02. race\bin\Debug\netcoreapp3.1\02. race.pdb
+C:\Users\User\source\repos\fund regex exe\02. race\obj\Debug\netcoreapp3.1\02. race.csprojAssemblyReference.cache
+C:\Users\User\source\repos\fund regex exe\02. race\obj\Debug\netcoreapp3.1\02. race.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\fund regex exe\02. race\obj\Debug\netcoreapp3.1\02. race.AssemblyInfo.cs
+C:\Users\User\source\repos\fund regex exe\02. race\obj\Debug\netcoreapp3.1\02. race.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\fund regex exe\02. race\obj\Debug\netcoreapp3.1\02. race.dll
+C:\Users\User\source\repos\fund regex exe\02. race\obj\Debug\netcoreapp3.1\02. race.pdb
+C:\Users\User\source\repos\fund regex exe\02. race\obj\Debug\netcoreapp3.1\02. race.genruntimeconfig.cache

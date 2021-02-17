@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\fund text processing lab\02. repeat strings\bin\Debug\netcoreapp3.1\02. repeat strings.exe
+C:\Users\User\source\repos\fund text processing lab\02. repeat strings\bin\Debug\netcoreapp3.1\02. repeat strings.deps.json
+C:\Users\User\source\repos\fund text processing lab\02. repeat strings\bin\Debug\netcoreapp3.1\02. repeat strings.runtimeconfig.json
+C:\Users\User\source\repos\fund text processing lab\02. repeat strings\bin\Debug\netcoreapp3.1\02. repeat strings.runtimeconfig.dev.json
+C:\Users\User\source\repos\fund text processing lab\02. repeat strings\bin\Debug\netcoreapp3.1\02. repeat strings.dll
+C:\Users\User\source\repos\fund text processing lab\02. repeat strings\bin\Debug\netcoreapp3.1\02. repeat strings.pdb
+C:\Users\User\source\repos\fund text processing lab\02. repeat strings\obj\Debug\netcoreapp3.1\02. repeat strings.csprojAssemblyReference.cache
+C:\Users\User\source\repos\fund text processing lab\02. repeat strings\obj\Debug\netcoreapp3.1\02. repeat strings.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\fund text processing lab\02. repeat strings\obj\Debug\netcoreapp3.1\02. repeat strings.AssemblyInfo.cs
+C:\Users\User\source\repos\fund text processing lab\02. repeat strings\obj\Debug\netcoreapp3.1\02. repeat strings.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\fund text processing lab\02. repeat strings\obj\Debug\netcoreapp3.1\02. repeat strings.dll
+C:\Users\User\source\repos\fund text processing lab\02. repeat strings\obj\Debug\netcoreapp3.1\02. repeat strings.pdb
+C:\Users\User\source\repos\fund text processing lab\02. repeat strings\obj\Debug\netcoreapp3.1\02. repeat strings.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Fund Basic Syntax Exe\03. vacation\bin\Debug\netcoreapp3.1\03. vacation.exe
+C:\Users\User\source\repos\Fund Basic Syntax Exe\03. vacation\bin\Debug\netcoreapp3.1\03. vacation.deps.json
+C:\Users\User\source\repos\Fund Basic Syntax Exe\03. vacation\bin\Debug\netcoreapp3.1\03. vacation.runtimeconfig.json
+C:\Users\User\source\repos\Fund Basic Syntax Exe\03. vacation\bin\Debug\netcoreapp3.1\03. vacation.runtimeconfig.dev.json
+C:\Users\User\source\repos\Fund Basic Syntax Exe\03. vacation\bin\Debug\netcoreapp3.1\03. vacation.dll
+C:\Users\User\source\repos\Fund Basic Syntax Exe\03. vacation\bin\Debug\netcoreapp3.1\03. vacation.pdb
+C:\Users\User\source\repos\Fund Basic Syntax Exe\03. vacation\obj\Debug\netcoreapp3.1\03. vacation.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Fund Basic Syntax Exe\03. vacation\obj\Debug\netcoreapp3.1\03. vacation.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Fund Basic Syntax Exe\03. vacation\obj\Debug\netcoreapp3.1\03. vacation.AssemblyInfo.cs
+C:\Users\User\source\repos\Fund Basic Syntax Exe\03. vacation\obj\Debug\netcoreapp3.1\03. vacation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fund Basic Syntax Exe\03. vacation\obj\Debug\netcoreapp3.1\03. vacation.dll
+C:\Users\User\source\repos\Fund Basic Syntax Exe\03. vacation\obj\Debug\netcoreapp3.1\03. vacation.pdb
+C:\Users\User\source\repos\Fund Basic Syntax Exe\03. vacation\obj\Debug\netcoreapp3.1\03. vacation.genruntimeconfig.cache

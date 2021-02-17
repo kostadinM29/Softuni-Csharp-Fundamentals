@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\fund lists lab\01. sum adjacent nums\bin\Debug\netcoreapp3.1\01. sum adjacent nums.exe
+C:\Users\User\source\repos\fund lists lab\01. sum adjacent nums\bin\Debug\netcoreapp3.1\01. sum adjacent nums.deps.json
+C:\Users\User\source\repos\fund lists lab\01. sum adjacent nums\bin\Debug\netcoreapp3.1\01. sum adjacent nums.runtimeconfig.json
+C:\Users\User\source\repos\fund lists lab\01. sum adjacent nums\bin\Debug\netcoreapp3.1\01. sum adjacent nums.runtimeconfig.dev.json
+C:\Users\User\source\repos\fund lists lab\01. sum adjacent nums\bin\Debug\netcoreapp3.1\01. sum adjacent nums.dll
+C:\Users\User\source\repos\fund lists lab\01. sum adjacent nums\bin\Debug\netcoreapp3.1\01. sum adjacent nums.pdb
+C:\Users\User\source\repos\fund lists lab\01. sum adjacent nums\obj\Debug\netcoreapp3.1\01. sum adjacent nums.csprojAssemblyReference.cache
+C:\Users\User\source\repos\fund lists lab\01. sum adjacent nums\obj\Debug\netcoreapp3.1\01. sum adjacent nums.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\fund lists lab\01. sum adjacent nums\obj\Debug\netcoreapp3.1\01. sum adjacent nums.AssemblyInfo.cs
+C:\Users\User\source\repos\fund lists lab\01. sum adjacent nums\obj\Debug\netcoreapp3.1\01. sum adjacent nums.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\fund lists lab\01. sum adjacent nums\obj\Debug\netcoreapp3.1\01. sum adjacent nums.dll
+C:\Users\User\source\repos\fund lists lab\01. sum adjacent nums\obj\Debug\netcoreapp3.1\01. sum adjacent nums.pdb
+C:\Users\User\source\repos\fund lists lab\01. sum adjacent nums\obj\Debug\netcoreapp3.1\01. sum adjacent nums.genruntimeconfig.cache

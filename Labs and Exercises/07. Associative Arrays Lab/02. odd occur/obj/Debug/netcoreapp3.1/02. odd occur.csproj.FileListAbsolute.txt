@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\fund ass arrays lab\02. odd occur\bin\Debug\netcoreapp3.1\02. odd occur.exe
+C:\Users\User\source\repos\fund ass arrays lab\02. odd occur\bin\Debug\netcoreapp3.1\02. odd occur.deps.json
+C:\Users\User\source\repos\fund ass arrays lab\02. odd occur\bin\Debug\netcoreapp3.1\02. odd occur.runtimeconfig.json
+C:\Users\User\source\repos\fund ass arrays lab\02. odd occur\bin\Debug\netcoreapp3.1\02. odd occur.runtimeconfig.dev.json
+C:\Users\User\source\repos\fund ass arrays lab\02. odd occur\bin\Debug\netcoreapp3.1\02. odd occur.dll
+C:\Users\User\source\repos\fund ass arrays lab\02. odd occur\bin\Debug\netcoreapp3.1\02. odd occur.pdb
+C:\Users\User\source\repos\fund ass arrays lab\02. odd occur\obj\Debug\netcoreapp3.1\02. odd occur.csprojAssemblyReference.cache
+C:\Users\User\source\repos\fund ass arrays lab\02. odd occur\obj\Debug\netcoreapp3.1\02. odd occur.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\fund ass arrays lab\02. odd occur\obj\Debug\netcoreapp3.1\02. odd occur.AssemblyInfo.cs
+C:\Users\User\source\repos\fund ass arrays lab\02. odd occur\obj\Debug\netcoreapp3.1\02. odd occur.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\fund ass arrays lab\02. odd occur\obj\Debug\netcoreapp3.1\02. odd occur.dll
+C:\Users\User\source\repos\fund ass arrays lab\02. odd occur\obj\Debug\netcoreapp3.1\02. odd occur.pdb
+C:\Users\User\source\repos\fund ass arrays lab\02. odd occur\obj\Debug\netcoreapp3.1\02. odd occur.genruntimeconfig.cache

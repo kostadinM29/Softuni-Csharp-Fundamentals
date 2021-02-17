@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Fund data var lab\Fund data var lab\bin\Debug\netcoreapp3.1\01. m to km.exe
+C:\Users\User\source\repos\Fund data var lab\Fund data var lab\bin\Debug\netcoreapp3.1\01. m to km.deps.json
+C:\Users\User\source\repos\Fund data var lab\Fund data var lab\bin\Debug\netcoreapp3.1\01. m to km.runtimeconfig.json
+C:\Users\User\source\repos\Fund data var lab\Fund data var lab\bin\Debug\netcoreapp3.1\01. m to km.runtimeconfig.dev.json
+C:\Users\User\source\repos\Fund data var lab\Fund data var lab\bin\Debug\netcoreapp3.1\01. m to km.dll
+C:\Users\User\source\repos\Fund data var lab\Fund data var lab\bin\Debug\netcoreapp3.1\01. m to km.pdb
+C:\Users\User\source\repos\Fund data var lab\Fund data var lab\obj\Debug\netcoreapp3.1\01. m to km.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Fund data var lab\Fund data var lab\obj\Debug\netcoreapp3.1\01. m to km.AssemblyInfo.cs
+C:\Users\User\source\repos\Fund data var lab\Fund data var lab\obj\Debug\netcoreapp3.1\01. m to km.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fund data var lab\Fund data var lab\obj\Debug\netcoreapp3.1\01. m to km.dll
+C:\Users\User\source\repos\Fund data var lab\Fund data var lab\obj\Debug\netcoreapp3.1\01. m to km.pdb
+C:\Users\User\source\repos\Fund data var lab\Fund data var lab\obj\Debug\netcoreapp3.1\01. m to km.genruntimeconfig.cache
+C:\Users\User\source\repos\Fund data var lab\Fund data var lab\obj\Debug\netcoreapp3.1\01. m to km.csprojAssemblyReference.cache

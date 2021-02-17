@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\fund class and object lab\03 big factorial\bin\Debug\netcoreapp3.1\03 big factorial.exe
+C:\Users\User\source\repos\fund class and object lab\03 big factorial\bin\Debug\netcoreapp3.1\03 big factorial.deps.json
+C:\Users\User\source\repos\fund class and object lab\03 big factorial\bin\Debug\netcoreapp3.1\03 big factorial.runtimeconfig.json
+C:\Users\User\source\repos\fund class and object lab\03 big factorial\bin\Debug\netcoreapp3.1\03 big factorial.runtimeconfig.dev.json
+C:\Users\User\source\repos\fund class and object lab\03 big factorial\bin\Debug\netcoreapp3.1\03 big factorial.dll
+C:\Users\User\source\repos\fund class and object lab\03 big factorial\bin\Debug\netcoreapp3.1\03 big factorial.pdb
+C:\Users\User\source\repos\fund class and object lab\03 big factorial\obj\Debug\netcoreapp3.1\03 big factorial.csprojAssemblyReference.cache
+C:\Users\User\source\repos\fund class and object lab\03 big factorial\obj\Debug\netcoreapp3.1\03 big factorial.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\fund class and object lab\03 big factorial\obj\Debug\netcoreapp3.1\03 big factorial.AssemblyInfo.cs
+C:\Users\User\source\repos\fund class and object lab\03 big factorial\obj\Debug\netcoreapp3.1\03 big factorial.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\fund class and object lab\03 big factorial\obj\Debug\netcoreapp3.1\03 big factorial.dll
+C:\Users\User\source\repos\fund class and object lab\03 big factorial\obj\Debug\netcoreapp3.1\03 big factorial.pdb
+C:\Users\User\source\repos\fund class and object lab\03 big factorial\obj\Debug\netcoreapp3.1\03 big factorial.genruntimeconfig.cache

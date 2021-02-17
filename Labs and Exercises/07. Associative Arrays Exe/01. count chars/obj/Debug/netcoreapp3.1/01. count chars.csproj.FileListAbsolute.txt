@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\fund ass arrays exe\01. count chars\bin\Debug\netcoreapp3.1\01. count chars.exe
+C:\Users\User\source\repos\fund ass arrays exe\01. count chars\bin\Debug\netcoreapp3.1\01. count chars.deps.json
+C:\Users\User\source\repos\fund ass arrays exe\01. count chars\bin\Debug\netcoreapp3.1\01. count chars.runtimeconfig.json
+C:\Users\User\source\repos\fund ass arrays exe\01. count chars\bin\Debug\netcoreapp3.1\01. count chars.runtimeconfig.dev.json
+C:\Users\User\source\repos\fund ass arrays exe\01. count chars\bin\Debug\netcoreapp3.1\01. count chars.dll
+C:\Users\User\source\repos\fund ass arrays exe\01. count chars\bin\Debug\netcoreapp3.1\01. count chars.pdb
+C:\Users\User\source\repos\fund ass arrays exe\01. count chars\obj\Debug\netcoreapp3.1\01. count chars.csprojAssemblyReference.cache
+C:\Users\User\source\repos\fund ass arrays exe\01. count chars\obj\Debug\netcoreapp3.1\01. count chars.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\fund ass arrays exe\01. count chars\obj\Debug\netcoreapp3.1\01. count chars.AssemblyInfo.cs
+C:\Users\User\source\repos\fund ass arrays exe\01. count chars\obj\Debug\netcoreapp3.1\01. count chars.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\fund ass arrays exe\01. count chars\obj\Debug\netcoreapp3.1\01. count chars.dll
+C:\Users\User\source\repos\fund ass arrays exe\01. count chars\obj\Debug\netcoreapp3.1\01. count chars.pdb
+C:\Users\User\source\repos\fund ass arrays exe\01. count chars\obj\Debug\netcoreapp3.1\01. count chars.genruntimeconfig.cache

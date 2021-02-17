@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\01. integer operations\07. water overflow\bin\Debug\netcoreapp3.1\07. water overflow.exe
+C:\Users\User\source\repos\01. integer operations\07. water overflow\bin\Debug\netcoreapp3.1\07. water overflow.deps.json
+C:\Users\User\source\repos\01. integer operations\07. water overflow\bin\Debug\netcoreapp3.1\07. water overflow.runtimeconfig.json
+C:\Users\User\source\repos\01. integer operations\07. water overflow\bin\Debug\netcoreapp3.1\07. water overflow.runtimeconfig.dev.json
+C:\Users\User\source\repos\01. integer operations\07. water overflow\bin\Debug\netcoreapp3.1\07. water overflow.dll
+C:\Users\User\source\repos\01. integer operations\07. water overflow\bin\Debug\netcoreapp3.1\07. water overflow.pdb
+C:\Users\User\source\repos\01. integer operations\07. water overflow\obj\Debug\netcoreapp3.1\07. water overflow.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\01. integer operations\07. water overflow\obj\Debug\netcoreapp3.1\07. water overflow.AssemblyInfo.cs
+C:\Users\User\source\repos\01. integer operations\07. water overflow\obj\Debug\netcoreapp3.1\07. water overflow.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\01. integer operations\07. water overflow\obj\Debug\netcoreapp3.1\07. water overflow.dll
+C:\Users\User\source\repos\01. integer operations\07. water overflow\obj\Debug\netcoreapp3.1\07. water overflow.pdb
+C:\Users\User\source\repos\01. integer operations\07. water overflow\obj\Debug\netcoreapp3.1\07. water overflow.genruntimeconfig.cache
